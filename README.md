@@ -16,7 +16,7 @@ I thrive on building scalable automation solutions using **Selenium**, **Python*
 
 - **Automation Tools:** Selenium, Python, Pytest framework
 - **API Testing:** Automated API validation using Selenium (for UI-driven API flows) and Pytest
-- **Manual Testing:** End-to-end test planning, execution, and defect reporting for web applications (e-commerce, banking), Amazon devices (Kindle, Echo, Fire TV), and semiconductor tools
+- **Manual Testing:** End-to-end test planning, execution, and defect reporting for web applications (e-commerce, banking), Amazon devices (Kindle, Echo, Fire TV)
 - **Cloud :** BrowserStack
 - **Continuous Integration:** CI/CD pipelines
 - **Collaboration:** Cross-functional teamwork, Agile methodologies
