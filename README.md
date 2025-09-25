@@ -38,3 +38,7 @@ I thrive on building scalable automation solutions using **Selenium**, **Python*
 
 **Let’s connect!**  
 I’m passionate about quality, automation, and always eager to tackle new challenges in software, API, web application validation.
+
+Thank you for taking time and reading it till the end. 
+
+**Checkout "ProjectOverview.md" for summary of the project and implementations.**
